@@ -1,5 +1,5 @@
-author: marco
-title: best paper
+author: marco, puffy e miao
+title: best paper ever
 
 introduction: bho
 data: mha
@@ -7,3 +7,4 @@ analysis: 1+1
 conclusion: tutto ok
 
 references
+
