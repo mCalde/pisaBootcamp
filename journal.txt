@@ -1,7 +1,7 @@
-author
-title
+author: marco
+title: best paper
 
-introduction
-data
-analysis
-conclusion
+introduction: bho
+data: mha
+analysis: 1+1
+conclusion: tutto ok
